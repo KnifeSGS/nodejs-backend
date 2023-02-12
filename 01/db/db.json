@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Józsi",
+      "email": "j@mail.com",
+      "active": true
+    },
+    {
+      "name": "Jociká",
+      "email": "já@mail.com",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Tündi",
+      "email": "tu@mail.com",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
